@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>League of Hard Knox - Fantasy Football Analytics</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Robbie, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        .viz-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+        }
+        
+        .viz-card {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease;
+        }
+        
+        .viz-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .viz-header {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .viz-header h3 {
+            margin: 0;
+            font-size: 1.3em;
+        }
+        
+        .viz-description {
+            padding: 15px 20px;
+            color: #666;
+            font-size: 0.9em;
+            line-height: 1.5;
+        }
+        
+        .viz-button {
+            display: block;
+            width: calc(100% - 40px);
+            margin: 0 20px 20px;
+            padding: 12px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: background 0.3s ease;
+        }
+        
+        .viz-button:hover {
+            background: #5a67d8;
+        }
+        
+        .dashboard-highlight {
+            grid-column: 1 / -1;
+            background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+        }
+        
+        .dashboard-highlight .viz-header {
+            background: linear-gradient(45deg, #ff6b6b, #ff8e8e);
+        }
+        
+        .footer {
+            text-align: center;
+            color: white;
+            margin-top: 40px;
+            padding: 20px;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏈 League of Hard Knox</h1>
+            <p>Fantasy Football Analytics Dashboard • 2017-2024</p>
+        </div>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number">678</div>
+                <div class="stat-label">Total Matchups</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">8</div>
+                <div class="stat-label">Seasons</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">12</div>
+                <div class="stat-label">Active Managers</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">55.7%</div>
+                <div class="stat-label">Best Win Rate (Hayden)</div>
+            </div>
+        </div>
+        
+        <div class="viz-grid">
+            <div class="viz-card dashboard-highlight">
+                <div class="viz-header">
+                    <h3>🎯 Interactive Dashboard</h3>
+                </div>
+                <div class="viz-description">
+                    Comprehensive multi-view dashboard combining H2H matrix, standings, and performance trends. The ultimate analysis tool with all key metrics in one place.
+                </div>
+                <a href="h2h_dashboard.html" class="viz-button">Open Dashboard</a>
+            </div>
+            
+            <div class="viz-card">
+                <div class="viz-header">
+                    <h3>🔥 H2H Matrix Heatmap</h3>
+                </div>
+                <div class="viz-description">
+                    Interactive heatmap showing win percentages between all managers. Hover for detailed records. Red = dominated, Green = dominant.
+                </div>
+                <a href="h2h_matrix_heatmap.html" class="viz-button">View Heatmap</a>
+            </div>
+            
+            <div class="viz-card">
+                <div class="viz-header">
+                    <h3>🏆 Overall Standings</h3>
+                </div>
+                <div class="viz-description">
+                    8-year cumulative win-loss records with win percentages. Shows the all-time hierarchy of the league.
+                </div>
+                <a href="overall_standings.html" class="viz-button">View Standings</a>
+            </div>
+            
+            <div class="viz-card">
+                <div class="viz-header">
+                    <h3>🕸️ Network Analysis</h3>
+                </div>
+                <div class="viz-description">
+                    Network visualization of H2H relationships. Line thickness and color show dominance levels between managers.
+                </div>
+                <a href="h2h_network.html" class="viz-button">View Network</a>
+            </div>
+            
+            <div class="viz-card">
+                <div class="viz-header">
+                    <h3>📈 Season Performance</h3>
+                </div>
+                <div class="viz-description">
+                    Track each manager's win percentage evolution across all 8 seasons. Identify peaks, valleys, and trends.
+                </div>
+                <a href="season_performance.html" class="viz-button">View Trends</a>
+            </div>
+            
+            <div class="viz-card">
+                <div class="viz-header">
+                    <h3>⚔️ Rivalry Analysis</h3>
+                </div>
+                <div class="viz-description">
+                    Most competitive matchups ranked by games played and record closeness. Find the league's greatest rivalries.
+                </div>
+                <a href="rivalry_analysis.html" class="viz-button">View Rivalries</a>
+            </div>
+            
+            <div class="viz-card">
+                <div class="viz-header">
+                    <h3>📊 Points Analysis</h3>
+                </div>
+                <div class="viz-description">
+                    Scatter plot of average points for vs against. Bubble size shows total games. Diagonal line = break-even.
+                </div>
+                <a href="points_analysis.html" class="viz-button">View Points</a>
+            </div>
+            
+            <div class="viz-card dashboard-highlight">
+                <div class="viz-header">
+                    <h3>📋 Matchup Browser</h3>
+                </div>
+                <div class="viz-description">
+                    Interactive table of every matchup with powerful filtering by season, manager, game type, and more. Sort by any column and search across all data.
+                </div>
+                <a href="matchup_table.html" class="viz-button">Browse Matchups</a>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>📈 Data spans 2017-2024 • 🤖 Generated with advanced analytics • 🏆 League of Hard Knox</p>
+            <p>All visualizations are interactive - hover, click, and explore!</p>
+        </div>
+    </div>
+</body>
+</html>

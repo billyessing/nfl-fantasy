@@ -1,0 +1,679 @@
+season,week,team1,team2,team1_score,team2_score,winner,playoff,manager1,manager2,winning_manager
+2019,1,100Yards,Yungsauvages,117.88,173.36,Yungsauvages,False,Daniel,Nic,Nic
+2019,1,Hide N Zeke,King Juju,196.32,125.06,Hide N Zeke,False,William,Justin,William
+2019,1,Royalfam,9Er G4Ng,139.92,72.44,Royalfam,False,Hayden,Phoenix,Hayden
+2019,1,Creampies,Jimmy Gspot,114.7,76.86,Creampies,False,Fraser,Robbie,Fraser
+2019,1,Bad Newz Kennels,Slippery Gypsies,130.02,135.3,Slippery Gypsies,False,Angus,Michael,Michael
+2019,2,Captain Falcon,Slippery Gypsies,137.46,103.0,Captain Falcon,False,Billy,Michael,Billy
+2019,2,Bad Newz Kennels,Creampies,120.02,135.46,Creampies,False,Angus,Fraser,Fraser
+2019,2,9Er G4Ng,Jimmy Gspot,102.42,118.46,Jimmy Gspot,False,Phoenix,Robbie,Robbie
+2019,2,100Yards,King Juju,111.82,93.26,100Yards,False,Daniel,Justin,Daniel
+2019,2,Yungsauvages,Hide N Zeke,123.48,106.56,Yungsauvages,False,Nic,William,Nic
+2019,3,Yungsauvages,Royalfam,141.08,138.06,Yungsauvages,False,Nic,Hayden,Nic
+2019,3,9Er G4Ng,100Yards,92.38,75.64,9Er G4Ng,False,Phoenix,Daniel,Phoenix
+2019,3,Creampies,Slippery Gypsies,104.64,141.42,Slippery Gypsies,False,Fraser,Michael,Michael
+2019,3,Captain Falcon,Hide N Zeke,100.8,131.84,Hide N Zeke,False,Billy,William,William
+2019,3,Jimmy Gspot,Bad Newz Kennels,122.62,139.76,Bad Newz Kennels,False,Robbie,Angus,Angus
+2019,4,9Er G4Ng,Hide N Zeke,104.4,78.7,9Er G4Ng,False,Phoenix,William,Phoenix
+2019,4,Royalfam,Jimmy Gspot,96.2,86.98,Royalfam,False,Hayden,Robbie,Hayden
+2019,4,Slippery Gypsies,Yungsauvages,113.9,135.48,Yungsauvages,False,Michael,Nic,Nic
+2019,4,King Juju,Creampies,111.5,126.22,Creampies,False,Justin,Fraser,Fraser
+2019,4,Game Of Jones,100Yards,93.18,117.0,100Yards,False,Nelson,Daniel,Daniel
+2019,5,9Er G4Ng,Bad Newz Kennels,110.14,128.64,Bad Newz Kennels,False,Phoenix,Angus,Angus
+2019,5,Yungsauvages,Creampies,95.16,153.02,Creampies,False,Nic,Fraser,Fraser
+2019,5,Hide N Zeke,Slippery Gypsies,113.94,162.32,Slippery Gypsies,False,William,Michael,Michael
+2019,5,100Yards,Captain Falcon,98.02,190.92,Captain Falcon,False,Daniel,Billy,Billy
+2019,5,Royalfam,King Juju,150.86,148.52,Royalfam,False,Hayden,Justin,Hayden
+2019,6,Yungsauvages,King Juju,81.74,154.06,King Juju,False,Nic,Justin,Justin
+2019,6,Creampies,Game Of Jones,117.84,101.12,Creampies,False,Fraser,Nelson,Fraser
+2019,6,9Er G4Ng,Slippery Gypsies,100.52,103.4,Slippery Gypsies,False,Phoenix,Michael,Michael
+2019,6,Royalfam,Captain Falcon,119.04,80.22,Royalfam,False,Hayden,Billy,Hayden
+2019,6,Bad Newz Kennels,100Yards,118.02,142.0,100Yards,False,Angus,Daniel,Daniel
+2019,7,Royalfam,Bad Newz Kennels,71.24,87.44,Bad Newz Kennels,False,Hayden,Angus,Angus
+2019,7,King Juju,Jimmy Gspot,109.66,138.78,Jimmy Gspot,False,Justin,Robbie,Robbie
+2019,7,100Yards,Hide N Zeke,101.84,136.12,Hide N Zeke,False,Daniel,William,William
+2019,7,Slippery Gypsies,Game Of Jones,118.96,103.92,Slippery Gypsies,False,Michael,Nelson,Michael
+2019,7,Yungsauvages,9Er G4Ng,115.62,73.74,Yungsauvages,False,Nic,Phoenix,Nic
+2019,8,King Juju,Slippery Gypsies,130.66,101.4,King Juju,False,Justin,Michael,Justin
+2019,8,Bad Newz Kennels,Game Of Jones,131.94,142.18,Game Of Jones,False,Angus,Nelson,Nelson
+2019,8,Jimmy Gspot,Yungsauvages,98.96,131.72,Yungsauvages,False,Robbie,Nic,Nic
+2019,8,Hide N Zeke,Creampies,124.86,135.46,Creampies,False,William,Fraser,Fraser
+2019,8,Royalfam,100Yards,120.48,124.78,100Yards,False,Hayden,Daniel,Daniel
+2019,9,Slippery Gypsies,Royalfam,135.5,152.86,Royalfam,False,Michael,Hayden,Hayden
+2019,9,Captain Falcon,King Juju,84.64,115.4,King Juju,False,Billy,Justin,Justin
+2019,9,Jimmy Gspot,100Yards,97.3,116.34,100Yards,False,Robbie,Daniel,Daniel
+2019,9,9Er G4Ng,Creampies,136.18,117.08,9Er G4Ng,False,Phoenix,Fraser,Phoenix
+2019,9,Bad Newz Kennels,Yungsauvages,74.74,138.42,Yungsauvages,False,Angus,Nic,Nic
+2019,10,Royalfam,Hide N Zeke,125.18,129.24,Hide N Zeke,False,Hayden,William,William
+2019,10,Slippery Gypsies,Jimmy Gspot,155.26,92.94,Slippery Gypsies,False,Michael,Robbie,Michael
+2019,10,Yungsauvages,Captain Falcon,110.22,111.92,Captain Falcon,False,Nic,Billy,Billy
+2019,10,Bad Newz Kennels,King Juju,122.74,110.82,Bad Newz Kennels,False,Angus,Justin,Angus
+2019,10,Game Of Jones,9Er G4Ng,97.02,120.82,9Er G4Ng,False,Nelson,Phoenix,Phoenix
+2019,11,Hide N Zeke,Bad Newz Kennels,86.56,105.78,Bad Newz Kennels,False,William,Angus,Angus
+2019,11,Yungsauvages,Game Of Jones,132.38,124.72,Yungsauvages,False,Nic,Nelson,Nic
+2019,11,9Er G4Ng,King Juju,76.76,92.44,King Juju,False,Phoenix,Justin,Justin
+2019,11,Jimmy Gspot,Captain Falcon,148.94,104.22,Jimmy Gspot,False,Robbie,Billy,Robbie
+2019,11,Royalfam,Creampies,150.24,121.46,Royalfam,False,Hayden,Fraser,Hayden
+2019,12,100Yards,Game Of Jones,58.5,158.12,Game Of Jones,False,Daniel,Nelson,Nelson
+2019,12,Bad Newz Kennels,Captain Falcon,59.7,79.56,Captain Falcon,False,Angus,Billy,Billy
+2019,12,Yungsauvages,Royalfam,100.66,151.78,Royalfam,False,Nic,Hayden,Hayden
+2019,12,9Er G4Ng,Slippery Gypsies,90.92,116.46,Slippery Gypsies,False,Phoenix,Michael,Michael
+2019,12,Hide N Zeke,King Juju,103.92,79.68,Hide N Zeke,False,William,Justin,William
+2019,13,Slippery Gypsies,Yungsauvages,126.24,101.6,Slippery Gypsies,False,Michael,Nic,Michael
+2019,13,Game Of Jones,Hide N Zeke,84.36,123.56,Hide N Zeke,False,Nelson,William,William
+2019,13,Captain Falcon,King Juju,108.12,157.74,King Juju,False,Billy,Justin,Justin
+2019,13,100Yards,Royalfam,152.1,121.3,100Yards,False,Daniel,Hayden,Daniel
+2019,13,Jimmy Gspot,Bad Newz Kennels,68.56,120.0,Bad Newz Kennels,False,Robbie,Angus,Angus
+2019,14,King Juju,Game Of Jones,91.36,177.94,Game Of Jones,False,Justin,Nelson,Nelson
+2019,14,Royalfam,Yungsauvages,94.0,133.1,Yungsauvages,False,Hayden,Nic,Nic
+2019,14,Hide N Zeke,Captain Falcon,119.88,108.4,Hide N Zeke,False,William,Billy,William
+2019,15,Game Of Jones,Bad Newz Kennels,118.82,128.1,Bad Newz Kennels,True,Nelson,Angus,Angus
+2019,15,Slippery Gypsies,Yungsauvages,104.58,149.68,Yungsauvages,True,Michael,Nic,Nic
+2019,15,Hide N Zeke,Creampies,95.02,119.88,Creampies,True,William,Fraser,Fraser
+2019,16,Jimmy Gspot,King Juju,148.16,101.84,Jimmy Gspot,True,Robbie,Justin,Robbie
+2019,16,Yungsauvages,Creampies,140.92,76.3,Yungsauvages,True,Nic,Fraser,Nic
+2019,16,Slippery Gypsies,Hide N Zeke,60.48,85.96,Hide N Zeke,True,Michael,William,William
+2019,16,Royalfam,Captain Falcon,120.46,131.34,Captain Falcon,True,Hayden,Billy,Billy
+2018,1,Royalfam,100Yards,129.14,128.32,Royalfam,False,Hayden,Daniel,Hayden
+2018,1,Jimmy Gspot,Fourtwentyone,62.94,98.42,Fourtwentyone,False,Robbie,William,William
+2018,1,Bad Newz Kennels,King Juju,144.16,157.64,King Juju,False,Angus,Justin,Justin
+2018,1,Captain Falcon,Yungsauvages,108.54,122.56,Yungsauvages,False,Billy,Nic,Nic
+2018,1,9Er G4Ng,Creampies,140.76,107.16,9Er G4Ng,False,Phoenix,Fraser,Phoenix
+2018,2,Slippery Gypsies,Jimmy Gspot,111.46,149.58,Jimmy Gspot,False,Michael,Robbie,Robbie
+2018,2,100Yards,Bad Newz Kennels,148.74,86.92,100Yards,False,Daniel,Angus,Daniel
+2018,2,Fourtwentyone,Captain Falcon,113.16,87.72,Fourtwentyone,False,William,Billy,William
+2018,2,King Juju,9Er G4Ng,137.04,123.04,King Juju,False,Justin,Phoenix,Justin
+2018,2,Yungsauvages,Creampies,113.16,137.8,Creampies,False,Nic,Fraser,Fraser
+2018,3,Bad Newz Kennels,Royalfam,96.52,141.1,Royalfam,False,Angus,Hayden,Hayden
+2018,3,Captain Falcon,Slippery Gypsies,137.6,105.12,Captain Falcon,False,Billy,Michael,Billy
+2018,3,9Er G4Ng,100Yards,98.44,101.76,100Yards,False,Phoenix,Daniel,Daniel
+2018,3,Creampies,Fourtwentyone,91.14,78.26,Creampies,False,Fraser,William,Fraser
+2018,3,Yungsauvages,King Juju,95.94,127.5,King Juju,False,Nic,Justin,Justin
+2018,4,Jimmy Gspot,Captain Falcon,112.08,127.8,Captain Falcon,False,Robbie,Billy,Billy
+2018,4,Royalfam,9Er G4Ng,135.22,141.7,9Er G4Ng,False,Hayden,Phoenix,Phoenix
+2018,4,Slippery Gypsies,Creampies,178.26,126.18,Slippery Gypsies,False,Michael,Fraser,Michael
+2018,4,100Yards,Yungsauvages,141.58,145.96,Yungsauvages,False,Daniel,Nic,Nic
+2018,4,Fourtwentyone,King Juju,117.1,165.82,King Juju,False,William,Justin,Justin
+2018,5,9Er G4Ng,Bad Newz Kennels,86.36,97.7,Bad Newz Kennels,False,Phoenix,Angus,Angus
+2018,5,Creampies,Jimmy Gspot,127.04,122.42,Creampies,False,Fraser,Robbie,Fraser
+2018,5,Yungsauvages,Royalfam,123.2,106.08,Yungsauvages,False,Nic,Hayden,Nic
+2018,5,King Juju,Slippery Gypsies,99.58,130.74,Slippery Gypsies,False,Justin,Michael,Michael
+2018,5,Fourtwentyone,100Yards,120.94,111.02,Fourtwentyone,False,William,Daniel,William
+2018,6,Captain Falcon,Creampies,101.28,134.72,Creampies,False,Billy,Fraser,Fraser
+2018,6,Bad Newz Kennels,Yungsauvages,136.86,192.54,Yungsauvages,False,Angus,Nic,Nic
+2018,6,Jimmy Gspot,King Juju,110.6,109.1,Jimmy Gspot,False,Robbie,Justin,Robbie
+2018,6,Royalfam,Fourtwentyone,120.7,90.94,Royalfam,False,Hayden,William,Hayden
+2018,6,Slippery Gypsies,100Yards,111.1,108.38,Slippery Gypsies,False,Michael,Daniel,Michael
+2018,7,Yungsauvages,9Er G4Ng,150.14,84.74,Yungsauvages,False,Nic,Phoenix,Nic
+2018,7,King Juju,Captain Falcon,121.62,121.88,Captain Falcon,False,Justin,Billy,Billy
+2018,7,Fourtwentyone,Bad Newz Kennels,144.88,81.58,Fourtwentyone,False,William,Angus,William
+2018,7,100Yards,Jimmy Gspot,90.92,136.4,Jimmy Gspot,False,Daniel,Robbie,Robbie
+2018,7,Slippery Gypsies,Royalfam,146.6,90.66,Slippery Gypsies,False,Michael,Hayden,Michael
+2018,8,Creampies,King Juju,134.16,116.54,Creampies,False,Fraser,Justin,Fraser
+2018,8,9Er G4Ng,Fourtwentyone,108.8,137.8,Fourtwentyone,False,Phoenix,William,William
+2018,8,Captain Falcon,100Yards,137.86,142.32,100Yards,False,Billy,Daniel,Daniel
+2018,8,Bad Newz Kennels,Slippery Gypsies,147.28,98.16,Bad Newz Kennels,False,Angus,Michael,Angus
+2018,8,Jimmy Gspot,Royalfam,95.34,122.24,Royalfam,False,Robbie,Hayden,Hayden
+2018,9,Fourtwentyone,Yungsauvages,134.54,83.9,Fourtwentyone,False,William,Nic,William
+2018,9,100Yards,Creampies,127.58,54.76,100Yards,False,Daniel,Fraser,Daniel
+2018,9,Slippery Gypsies,9Er G4Ng,141.16,96.02,Slippery Gypsies,False,Michael,Phoenix,Michael
+2018,9,Royalfam,Captain Falcon,65.68,137.42,Captain Falcon,False,Hayden,Billy,Billy
+2018,9,Jimmy Gspot,Bad Newz Kennels,148.2,93.44,Jimmy Gspot,False,Robbie,Angus,Robbie
+2018,10,King Juju,100Yards,133.86,129.8,King Juju,False,Justin,Daniel,Justin
+2018,10,Yungsauvages,Slippery Gypsies,163.5,147.86,Yungsauvages,False,Nic,Michael,Nic
+2018,10,Creampies,Royalfam,114.64,88.12,Creampies,False,Fraser,Hayden,Fraser
+2018,10,9Er G4Ng,Jimmy Gspot,93.02,161.64,Jimmy Gspot,False,Phoenix,Robbie,Robbie
+2018,10,Captain Falcon,Bad Newz Kennels,122.02,118.72,Captain Falcon,False,Billy,Angus,Billy
+2018,11,Slippery Gypsies,Fourtwentyone,126.66,96.92,Slippery Gypsies,False,Michael,William,Michael
+2018,11,Royalfam,King Juju,126.28,164.08,King Juju,False,Hayden,Justin,Justin
+2018,11,Jimmy Gspot,Yungsauvages,151.9,160.18,Yungsauvages,False,Robbie,Nic,Nic
+2018,11,Bad Newz Kennels,Creampies,101.12,57.88,Bad Newz Kennels,False,Angus,Fraser,Angus
+2018,11,Captain Falcon,9Er G4Ng,108.5,74.44,Captain Falcon,False,Billy,Phoenix,Billy
+2018,12,100Yards,Royalfam,117.48,124.04,Royalfam,False,Daniel,Hayden,Hayden
+2018,12,Fourtwentyone,Jimmy Gspot,136.72,166.22,Jimmy Gspot,False,William,Robbie,Robbie
+2018,12,King Juju,Bad Newz Kennels,109.52,94.44,King Juju,False,Justin,Angus,Justin
+2018,12,Yungsauvages,Captain Falcon,114.02,147.5,Captain Falcon,False,Nic,Billy,Billy
+2018,12,Creampies,9Er G4Ng,133.68,101.24,Creampies,False,Fraser,Phoenix,Fraser
+2018,13,Jimmy Gspot,Slippery Gypsies,151.7,93.14,Jimmy Gspot,False,Robbie,Michael,Robbie
+2018,13,Bad Newz Kennels,100Yards,82.52,102.9,100Yards,False,Angus,Daniel,Daniel
+2018,13,Captain Falcon,Fourtwentyone,141.22,84.88,Captain Falcon,False,Billy,William,Billy
+2018,13,9Er G4Ng,King Juju,111.36,118.22,King Juju,False,Phoenix,Justin,Justin
+2018,13,Creampies,Yungsauvages,91.44,137.52,Yungsauvages,False,Fraser,Nic,Nic
+2018,14,Fourtwentyone,9Er G4Ng,134.6,80.0,Fourtwentyone,False,William,Phoenix,William
+2018,14,Yungsauvages,Jimmy Gspot,111.66,172.78,Jimmy Gspot,False,Nic,Robbie,Robbie
+2018,14,King Juju,Creampies,114.84,97.22,King Juju,False,Justin,Fraser,Justin
+2018,15,Fourtwentyone,Royalfam,157.4,89.34,Fourtwentyone,True,William,Hayden,William
+2018,15,Captain Falcon,Jimmy Gspot,126.86,91.14,Captain Falcon,True,Billy,Robbie,Billy
+2018,15,King Juju,Game Of Jones,105.86,114.34,Game Of Jones,True,Justin,Nelson,Nelson
+2018,16,Slippery Gypsies,Royalfam,111.1,97.6,Slippery Gypsies,True,Michael,Hayden,Michael
+2018,16,Bad Newz Kennels,9Er G4Ng,102.74,114.34,9Er G4Ng,True,Angus,Phoenix,Phoenix
+2018,16,Captain Falcon,Game Of Jones,123.06,151.16,Game Of Jones,True,Billy,Nelson,Nelson
+2018,16,Jimmy Gspot,King Juju,134.36,161.08,King Juju,True,Robbie,Justin,Justin
+2018,16,Yungsauvages,Creampies,87.56,92.52,Creampies,True,Nic,Fraser,Fraser
+2017,1,Royalfam,100Yards,69.22,68.34,Royalfam,False,Hayden,Daniel,Hayden
+2017,1,Matt Chokesondick Ryan,Get Lynched,77.04,75.44,Matt Chokesondick Ryan,False,Robbie,William,Robbie
+2017,1,Vicks Dog House,King Juju,111.18,66.3,Vicks Dog House,False,Angus,Justin,Angus
+2017,1,Tex Flex,Yungsavagez,76.14,101.52,Yungsavagez,False,Billy,Nic,Nic
+2017,1,Breesus King Of The Drews,Texas Forever,131.14,67.58,Breesus King Of The Drews,False,Phoenix,Jack,Phoenix
+2017,2,Slippery Gypsies,Matt Chokesondick Ryan,57.72,124.8,Matt Chokesondick Ryan,False,Michael,Robbie,Robbie
+2017,2,100Yards,Vicks Dog House,84.32,70.88,100Yards,False,Daniel,Angus,Daniel
+2017,2,Get Lynched,Tex Flex,76.96,76.2,Get Lynched,False,William,Billy,William
+2017,2,King Juju,Breesus King Of The Drews,88.96,92.44,Breesus King Of The Drews,False,Justin,Phoenix,Phoenix
+2017,2,Yungsavagez,Texas Forever,113.64,95.18,Yungsavagez,False,Nic,Jack,Nic
+2017,3,Vicks Dog House,Royalfam,83.56,102.44,Royalfam,False,Angus,Hayden,Hayden
+2017,3,Tex Flex,Slippery Gypsies,72.8,64.06,Tex Flex,False,Billy,Michael,Billy
+2017,3,Breesus King Of The Drews,100Yards,126.7,111.32,Breesus King Of The Drews,False,Phoenix,Daniel,Phoenix
+2017,3,Texas Forever,Get Lynched,93.52,119.92,Get Lynched,False,Jack,William,William
+2017,3,Yungsavagez,King Juju,99.3,107.2,King Juju,False,Nic,Justin,Justin
+2017,4,Matt Chokesondick Ryan,Tex Flex,107.38,59.74,Matt Chokesondick Ryan,False,Robbie,Billy,Robbie
+2017,4,Royalfam,Breesus King Of The Drews,113.6,81.62,Royalfam,False,Hayden,Phoenix,Hayden
+2017,4,Slippery Gypsies,Texas Forever,96.56,106.68,Texas Forever,False,Michael,Jack,Jack
+2017,4,100Yards,Yungsavagez,77.56,99.58,Yungsavagez,False,Daniel,Nic,Nic
+2017,4,Get Lynched,King Juju,101.72,104.3,King Juju,False,William,Justin,Justin
+2017,5,Breesus King Of The Drews,Vicks Dog House,71.88,97.46,Vicks Dog House,False,Phoenix,Angus,Angus
+2017,5,Texas Forever,Matt Chokesondick Ryan,63.92,87.96,Matt Chokesondick Ryan,False,Jack,Robbie,Robbie
+2017,5,Yungsavagez,Royalfam,129.36,66.82,Yungsavagez,False,Nic,Hayden,Nic
+2017,5,King Juju,Slippery Gypsies,97.84,97.82,King Juju,False,Justin,Michael,Justin
+2017,5,Get Lynched,100Yards,99.64,107.44,100Yards,False,William,Daniel,Daniel
+2017,6,Tex Flex,Texas Forever,93.64,81.22,Tex Flex,False,Billy,Jack,Billy
+2017,6,Vicks Dog House,Yungsavagez,109.48,108.24,Vicks Dog House,False,Angus,Nic,Angus
+2017,6,Matt Chokesondick Ryan,King Juju,80.02,80.8,King Juju,False,Robbie,Justin,Justin
+2017,6,Royalfam,Get Lynched,62.58,118.8,Get Lynched,False,Hayden,William,William
+2017,6,Slippery Gypsies,100Yards,99.44,118.82,100Yards,False,Michael,Daniel,Daniel
+2017,7,Yungsavagez,Breesus King Of The Drews,94.56,70.44,Yungsavagez,False,Nic,Phoenix,Nic
+2017,7,King Juju,Tex Flex,83.12,64.12,King Juju,False,Justin,Billy,Justin
+2017,7,Get Lynched,Vicks Dog House,127.42,79.98,Get Lynched,False,William,Angus,William
+2017,7,100Yards,Matt Chokesondick Ryan,83.36,124.72,Matt Chokesondick Ryan,False,Daniel,Robbie,Robbie
+2017,7,Slippery Gypsies,Royalfam,79.1,66.92,Slippery Gypsies,False,Michael,Hayden,Michael
+2017,8,Texas Forever,King Juju,81.32,80.22,Texas Forever,False,Jack,Justin,Jack
+2017,8,Breesus King Of The Drews,Get Lynched,107.76,131.98,Get Lynched,False,Phoenix,William,William
+2017,8,Tex Flex,100Yards,70.76,139.98,100Yards,False,Billy,Daniel,Daniel
+2017,8,Vicks Dog House,Slippery Gypsies,100.92,64.68,Vicks Dog House,False,Angus,Michael,Angus
+2017,8,Matt Chokesondick Ryan,Royalfam,100.06,103.64,Royalfam,False,Robbie,Hayden,Hayden
+2017,9,Get Lynched,Yungsavagez,121.0,94.76,Get Lynched,False,William,Nic,William
+2017,9,100Yards,Texas Forever,65.48,65.3,100Yards,False,Daniel,Jack,Daniel
+2017,9,Slippery Gypsies,Breesus King Of The Drews,112.52,79.52,Slippery Gypsies,False,Michael,Phoenix,Michael
+2017,9,Royalfam,Tex Flex,84.76,95.98,Tex Flex,False,Hayden,Billy,Billy
+2017,9,Matt Chokesondick Ryan,Vicks Dog House,105.22,90.84,Matt Chokesondick Ryan,False,Robbie,Angus,Robbie
+2017,10,King Juju,100Yards,136.3,99.32,King Juju,False,Justin,Daniel,Justin
+2017,10,Yungsavagez,Slippery Gypsies,112.24,108.48,Yungsavagez,False,Nic,Michael,Nic
+2017,10,Texas Forever,Royalfam,67.04,77.14,Royalfam,False,Jack,Hayden,Hayden
+2017,10,Breesus King Of The Drews,Matt Chokesondick Ryan,104.96,99.0,Breesus King Of The Drews,False,Phoenix,Robbie,Phoenix
+2017,10,Tex Flex,Vicks Dog House,98.06,108.16,Vicks Dog House,False,Billy,Angus,Angus
+2017,11,Slippery Gypsies,Get Lynched,62.4,109.24,Get Lynched,False,Michael,William,William
+2017,11,Royalfam,King Juju,82.42,103.18,King Juju,False,Hayden,Justin,Justin
+2017,11,Matt Chokesondick Ryan,Yungsavagez,130.0,91.9,Matt Chokesondick Ryan,False,Robbie,Nic,Robbie
+2017,11,Vicks Dog House,Texas Forever,96.96,80.5,Vicks Dog House,False,Angus,Jack,Angus
+2017,11,Tex Flex,Breesus King Of The Drews,96.54,76.1,Tex Flex,False,Billy,Phoenix,Billy
+2017,12,100Yards,Royalfam,99.32,88.88,100Yards,False,Daniel,Hayden,Daniel
+2017,12,Get Lynched,Matt Chokesondick Ryan,63.76,114.18,Matt Chokesondick Ryan,False,William,Robbie,Robbie
+2017,12,King Juju,Vicks Dog House,90.98,101.2,Vicks Dog House,False,Justin,Angus,Angus
+2017,12,Yungsavagez,Tex Flex,100.96,110.56,Tex Flex,False,Nic,Billy,Billy
+2017,12,Texas Forever,Breesus King Of The Drews,78.68,93.64,Breesus King Of The Drews,False,Jack,Phoenix,Phoenix
+2017,13,Matt Chokesondick Ryan,Slippery Gypsies,88.0,104.24,Slippery Gypsies,False,Robbie,Michael,Michael
+2017,13,Vicks Dog House,100Yards,84.38,133.38,100Yards,False,Angus,Daniel,Daniel
+2017,13,Tex Flex,Get Lynched,84.96,91.82,Get Lynched,False,Billy,William,William
+2017,13,Breesus King Of The Drews,King Juju,86.86,113.1,King Juju,False,Phoenix,Justin,Justin
+2017,13,Texas Forever,Yungsavagez,95.82,140.58,Yungsavagez,False,Jack,Nic,Nic
+2017,14,Tex Flex,Slippery Gypsies,59.76,86.62,Slippery Gypsies,False,Billy,Michael,Michael
+2017,14,Get Lynched,Yungsavagez,129.66,127.08,Get Lynched,False,William,Nic,William
+2017,14,Matt Chokesondick Ryan,100Yards,103.64,64.74,Matt Chokesondick Ryan,False,Robbie,Daniel,Robbie
+2017,15,Slippery Gypsies,Breesus King Of The Drews,84.44,85.24,Breesus King Of The Drews,True,Michael,Phoenix,Phoenix
+2017,15,King Juju,Get Lynched,84.94,82.94,King Juju,True,Justin,William,Justin
+2017,15,Matt Chokesondick Ryan,Game Of Jones,134.24,135.14,Game Of Jones,True,Robbie,Nelson,Nelson
+2017,16,Vicks Dog House,Slippery Gypsies,78.62,93.5,Slippery Gypsies,True,Angus,Michael,Michael
+2017,16,Texas Forever,Tex Flex,67.66,105.9,Tex Flex,True,Jack,Billy,Billy
+2017,16,King Juju,Game Of Jones,97.94,74.24,King Juju,True,Justin,Nelson,Justin
+2017,16,Get Lynched,Matt Chokesondick Ryan,79.52,117.86,Matt Chokesondick Ryan,True,William,Robbie,Robbie
+2017,16,Yungsavagez,100Yards,87.54,80.22,Yungsavagez,True,Nic,Daniel,Nic
+2020,1,Bijan Mustardson,Slippery Gypsies,97.5,106.3,Slippery Gypsies,False,Nelson,Michael,Michael
+2020,1,Royalfam,Letsride,150.8,112.7,Royalfam,False,Hayden,James,Hayden
+2020,1,The Guru,Jerryswrld,142.2,117.86,The Guru,False,Robbie,William,Robbie
+2020,1,Bad Newz Kennels,King Juju,69.74,108.54,King Juju,False,Angus,Justin,Justin
+2020,1,Captain Falcon,Yungsauvages,119.08,100.82,Captain Falcon,False,Billy,Nic,Billy
+2020,1,L G4Ng,Creampies,160.68,134.58,L G4Ng,False,Phoenix,Fraser,Phoenix
+2020,2,Royalfam,Bijan Mustardson,123.26,117.66,Royalfam,False,Hayden,Nelson,Hayden
+2020,2,Slippery Gypsies,The Guru,126.52,125.14,Slippery Gypsies,False,Michael,Robbie,Michael
+2020,2,Letsride,Bad Newz Kennels,100.08,108.6,Bad Newz Kennels,False,James,Angus,Angus
+2020,2,Jerryswrld,Captain Falcon,139.7,198.02,Captain Falcon,False,William,Billy,Billy
+2020,2,King Juju,L G4Ng,114.18,138.8,L G4Ng,False,Justin,Phoenix,Phoenix
+2020,2,Yungsauvages,Creampies,78.1,150.66,Creampies,False,Nic,Fraser,Fraser
+2020,3,Bijan Mustardson,The Guru,126.78,108.4,Bijan Mustardson,False,Nelson,Robbie,Nelson
+2020,3,Bad Newz Kennels,Royalfam,128.68,106.78,Bad Newz Kennels,False,Angus,Hayden,Angus
+2020,3,Captain Falcon,Slippery Gypsies,182.2,129.62,Captain Falcon,False,Billy,Michael,Billy
+2020,3,L G4Ng,Letsride,116.24,100.0,L G4Ng,False,Phoenix,James,Phoenix
+2020,3,Creampies,Jerryswrld,97.74,90.18,Creampies,False,Fraser,William,Fraser
+2020,3,Yungsauvages,King Juju,140.8,126.8,Yungsauvages,False,Nic,Justin,Nic
+2020,4,Bad Newz Kennels,Bijan Mustardson,102.36,112.0,Bijan Mustardson,False,Angus,Nelson,Nelson
+2020,4,The Guru,Captain Falcon,87.62,123.2,Captain Falcon,False,Robbie,Billy,Billy
+2020,4,Royalfam,L G4Ng,147.12,164.12,L G4Ng,False,Hayden,Phoenix,Phoenix
+2020,4,Slippery Gypsies,Creampies,106.94,115.26,Creampies,False,Michael,Fraser,Fraser
+2020,4,Letsride,Yungsauvages,100.24,103.1,Yungsauvages,False,James,Nic,Nic
+2020,4,Jerryswrld,King Juju,171.68,111.04,Jerryswrld,False,William,Justin,William
+2020,5,Bijan Mustardson,Captain Falcon,108.34,100.08,Bijan Mustardson,False,Nelson,Billy,Nelson
+2020,5,L G4Ng,Bad Newz Kennels,97.42,59.64,L G4Ng,False,Phoenix,Angus,Phoenix
+2020,5,Creampies,The Guru,116.22,115.3,Creampies,False,Fraser,Robbie,Fraser
+2020,5,Yungsauvages,Royalfam,113.46,123.5,Royalfam,False,Nic,Hayden,Hayden
+2020,5,King Juju,Slippery Gypsies,113.0,120.26,Slippery Gypsies,False,Justin,Michael,Michael
+2020,5,Jerryswrld,Letsride,121.94,144.7,Letsride,False,William,James,James
+2020,6,L G4Ng,Bijan Mustardson,59.18,140.12,Bijan Mustardson,False,Phoenix,Nelson,Nelson
+2020,6,Captain Falcon,Creampies,82.94,124.74,Creampies,False,Billy,Fraser,Fraser
+2020,6,Bad Newz Kennels,Yungsauvages,100.04,118.44,Yungsauvages,False,Angus,Nic,Nic
+2020,6,The Guru,King Juju,95.92,121.1,King Juju,False,Robbie,Justin,Justin
+2020,6,Royalfam,Jerryswrld,136.44,81.6,Royalfam,False,Hayden,William,Hayden
+2020,6,Slippery Gypsies,Letsride,90.58,103.02,Letsride,False,Michael,James,James
+2020,7,Bijan Mustardson,Creampies,132.52,135.66,Creampies,False,Nelson,Fraser,Fraser
+2020,7,Yungsauvages,L G4Ng,130.06,83.28,Yungsauvages,False,Nic,Phoenix,Nic
+2020,7,King Juju,Captain Falcon,88.9,164.22,Captain Falcon,False,Justin,Billy,Billy
+2020,7,Jerryswrld,Bad Newz Kennels,84.66,102.56,Bad Newz Kennels,False,William,Angus,Angus
+2020,7,Letsride,The Guru,140.12,120.3,Letsride,False,James,Robbie,James
+2020,7,Slippery Gypsies,Royalfam,105.2,150.18,Royalfam,False,Michael,Hayden,Hayden
+2020,8,Yungsauvages,Bijan Mustardson,134.92,107.54,Yungsauvages,False,Nic,Nelson,Nic
+2020,8,Creampies,King Juju,172.66,82.34,Creampies,False,Fraser,Justin,Fraser
+2020,8,L G4Ng,Jerryswrld,71.46,88.94,Jerryswrld,False,Phoenix,William,William
+2020,8,Captain Falcon,Letsride,106.84,132.0,Letsride,False,Billy,James,James
+2020,8,Bad Newz Kennels,Slippery Gypsies,71.12,146.04,Slippery Gypsies,False,Angus,Michael,Michael
+2020,8,The Guru,Royalfam,80.94,94.52,Royalfam,False,Robbie,Hayden,Hayden
+2020,9,Bijan Mustardson,King Juju,85.16,97.28,King Juju,False,Nelson,Justin,Justin
+2020,9,Jerryswrld,Yungsauvages,115.0,124.54,Yungsauvages,False,William,Nic,Nic
+2020,9,Letsride,Creampies,140.88,116.46,Letsride,False,James,Fraser,James
+2020,9,Slippery Gypsies,L G4Ng,102.14,159.5,L G4Ng,False,Michael,Phoenix,Phoenix
+2020,9,Royalfam,Captain Falcon,137.14,78.1,Royalfam,False,Hayden,Billy,Hayden
+2020,9,The Guru,Bad Newz Kennels,110.32,89.12,The Guru,False,Robbie,Angus,Robbie
+2020,10,Jerryswrld,Bijan Mustardson,93.4,100.38,Bijan Mustardson,False,William,Nelson,Nelson
+2020,10,King Juju,Letsride,72.52,103.84,Letsride,False,Justin,James,James
+2020,10,Yungsauvages,Slippery Gypsies,124.62,85.26,Yungsauvages,False,Nic,Michael,Nic
+2020,10,Creampies,Royalfam,118.34,108.68,Creampies,False,Fraser,Hayden,Fraser
+2020,10,L G4Ng,The Guru,101.36,89.0,L G4Ng,False,Phoenix,Robbie,Phoenix
+2020,10,Captain Falcon,Bad Newz Kennels,125.82,78.88,Captain Falcon,False,Billy,Angus,Billy
+2020,11,Bijan Mustardson,Letsride,92.98,96.98,Letsride,False,Nelson,James,James
+2020,11,Slippery Gypsies,Jerryswrld,101.54,99.14,Slippery Gypsies,False,Michael,William,Michael
+2020,11,Royalfam,King Juju,129.54,107.62,Royalfam,False,Hayden,Justin,Hayden
+2020,11,The Guru,Yungsauvages,115.16,151.92,Yungsauvages,False,Robbie,Nic,Nic
+2020,11,Bad Newz Kennels,Creampies,89.26,131.74,Creampies,False,Angus,Fraser,Fraser
+2020,11,Captain Falcon,L G4Ng,143.68,112.52,Captain Falcon,False,Billy,Phoenix,Billy
+2020,12,Slippery Gypsies,Bijan Mustardson,99.22,125.52,Bijan Mustardson,False,Michael,Nelson,Nelson
+2020,12,Letsride,Royalfam,108.74,137.14,Royalfam,False,James,Hayden,Hayden
+2020,12,Jerryswrld,The Guru,90.34,90.5,The Guru,False,William,Robbie,Robbie
+2020,12,King Juju,Bad Newz Kennels,146.88,148.04,Bad Newz Kennels,False,Justin,Angus,Angus
+2020,12,Yungsauvages,Captain Falcon,119.42,90.3,Yungsauvages,False,Nic,Billy,Nic
+2020,12,Creampies,L G4Ng,105.6,102.18,Creampies,False,Fraser,Phoenix,Fraser
+2020,13,Bijan Mustardson,Royalfam,124.48,106.76,Bijan Mustardson,False,Nelson,Hayden,Nelson
+2020,13,The Guru,Slippery Gypsies,134.32,101.94,The Guru,False,Robbie,Michael,Robbie
+2020,13,Bad Newz Kennels,Letsride,121.7,117.34,Bad Newz Kennels,False,Angus,James,Angus
+2020,13,Captain Falcon,Jerryswrld,136.82,112.0,Captain Falcon,False,Billy,William,Billy
+2020,13,L G4Ng,King Juju,115.2,93.72,L G4Ng,False,Phoenix,Justin,Phoenix
+2020,13,Creampies,Yungsauvages,129.6,100.54,Creampies,False,Fraser,Nic,Fraser
+2020,14,The Guru,King Juju,118.46,113.32,The Guru,True,Robbie,Justin,Robbie
+2020,14,Bad Newz Kennels,Jerryswrld,80.66,106.7,Jerryswrld,True,Angus,William,William
+2020,14,Captain Falcon,L G4Ng,109.64,100.52,Captain Falcon,True,Billy,Phoenix,Billy
+2020,14,Yungsauvages,Letsride,101.56,136.04,Letsride,True,Nic,James,James
+2020,15,Bijan Mustardson,The Guru,135.78,126.34,Bijan Mustardson,True,Nelson,Robbie,Nelson
+2020,15,Jerryswrld,Slippery Gypsies,72.32,107.52,Slippery Gypsies,True,William,Michael,Michael
+2020,15,Creampies,Captain Falcon,134.3,135.94,Captain Falcon,True,Fraser,Billy,Billy
+2020,15,Letsride,Royalfam,96.22,147.12,Royalfam,True,James,Hayden,Hayden
+2021,1,L G4Ng,Bijan Mustardson,120.18,146.62,Bijan Mustardson,False,Phoenix,Nelson,Nelson
+2021,1,King Juju,The Guru,103.12,127.8,The Guru,False,Justin,Robbie,Robbie
+2021,1,Jerryswrld,Letsride,92.46,141.76,Letsride,False,William,James,James
+2021,1,Bad Newz Kennels,Royalfam,107.78,138.66,Royalfam,False,Angus,Hayden,Hayden
+2021,1,Slippery Gypsies,Captain Falcon,97.96,101.38,Captain Falcon,False,Michael,Billy,Billy
+2021,1,Creampies,Yungsauvages,165.74,139.6,Creampies,False,Fraser,Nic,Fraser
+2021,2,Captain Falcon,Bad Newz Kennels,94.22,109.82,Bad Newz Kennels,False,Billy,Angus,Angus
+2021,2,Creampies,King Juju,96.12,135.3,King Juju,False,Fraser,Justin,Justin
+2021,2,Letsride,Bijan Mustardson,127.04,131.08,Bijan Mustardson,False,James,Nelson,Nelson
+2021,2,Royalfam,Slippery Gypsies,132.58,149.02,Slippery Gypsies,False,Hayden,Michael,Michael
+2021,2,Yungsauvages,Jerryswrld,113.86,108.2,Yungsauvages,False,Nic,William,Nic
+2021,2,L G4Ng,The Guru,116.72,106.36,L G4Ng,False,Phoenix,Robbie,Phoenix
+2021,3,L G4Ng,Bad Newz Kennels,97.1,103.74,Bad Newz Kennels,False,Phoenix,Angus,Angus
+2021,3,Slippery Gypsies,Yungsauvages,144.12,110.58,Slippery Gypsies,False,Michael,Nic,Michael
+2021,3,Letsride,Creampies,116.38,99.82,Letsride,False,James,Fraser,James
+2021,3,King Juju,Bijan Mustardson,101.24,118.08,Bijan Mustardson,False,Justin,Nelson,Nelson
+2021,3,Royalfam,Captain Falcon,126.84,123.04,Royalfam,False,Hayden,Billy,Hayden
+2021,3,The Guru,Jerryswrld,124.92,145.64,Jerryswrld,False,Robbie,William,William
+2021,4,King Juju,Jerryswrld,127.22,115.32,King Juju,False,Justin,William,Justin
+2021,4,Slippery Gypsies,The Guru,140.86,119.12,Slippery Gypsies,False,Michael,Robbie,Michael
+2021,4,Bad Newz Kennels,Letsride,108.24,85.76,Bad Newz Kennels,False,Angus,James,Angus
+2021,4,Captain Falcon,L G4Ng,144.48,104.82,Captain Falcon,False,Billy,Phoenix,Billy
+2021,4,Creampies,Bijan Mustardson,114.8,104.92,Creampies,False,Fraser,Nelson,Fraser
+2021,4,Yungsauvages,Royalfam,125.14,95.08,Yungsauvages,False,Nic,Hayden,Nic
+2021,5,Jerryswrld,Bad Newz Kennels,103.26,107.84,Bad Newz Kennels,False,William,Angus,Angus
+2021,5,Bijan Mustardson,Slippery Gypsies,141.54,128.88,Bijan Mustardson,False,Nelson,Michael,Nelson
+2021,5,Letsride,King Juju,127.44,145.06,King Juju,False,James,Justin,Justin
+2021,5,Yungsauvages,Captain Falcon,151.48,127.02,Yungsauvages,False,Nic,Billy,Nic
+2021,5,Royalfam,L G4Ng,163.62,100.98,Royalfam,False,Hayden,Phoenix,Hayden
+2021,5,Creampies,The Guru,118.2,174.3,The Guru,False,Fraser,Robbie,Robbie
+2021,6,Captain Falcon,Bijan Mustardson,150.6,108.74,Captain Falcon,False,Billy,Nelson,Billy
+2021,6,The Guru,Royalfam,115.32,142.6,Royalfam,False,Robbie,Hayden,Hayden
+2021,6,Jerryswrld,L G4Ng,132.16,128.38,Jerryswrld,False,William,Phoenix,William
+2021,6,King Juju,Bad Newz Kennels,95.1,111.76,Bad Newz Kennels,False,Justin,Angus,Angus
+2021,6,Slippery Gypsies,Creampies,116.78,172.84,Creampies,False,Michael,Fraser,Fraser
+2021,6,Letsride,Yungsauvages,102.98,86.88,Letsride,False,James,Nic,James
+2021,7,Bijan Mustardson,The Guru,80.54,146.64,The Guru,False,Nelson,Robbie,Robbie
+2021,7,Jerryswrld,Captain Falcon,100.04,104.94,Captain Falcon,False,William,Billy,Billy
+2021,7,Bad Newz Kennels,Creampies,125.9,108.36,Bad Newz Kennels,False,Angus,Fraser,Angus
+2021,7,L G4Ng,Yungsauvages,106.24,120.68,Yungsauvages,False,Phoenix,Nic,Nic
+2021,7,Letsride,Slippery Gypsies,141.94,125.48,Letsride,False,James,Michael,James
+2021,7,King Juju,Royalfam,110.36,104.94,King Juju,False,Justin,Hayden,Justin
+2021,8,Yungsauvages,Bad Newz Kennels,123.76,108.8,Yungsauvages,False,Nic,Angus,Nic
+2021,8,Jerryswrld,Creampies,64.8,116.0,Creampies,False,William,Fraser,Fraser
+2021,8,King Juju,Slippery Gypsies,103.56,126.84,Slippery Gypsies,False,Justin,Michael,Michael
+2021,8,Bijan Mustardson,Royalfam,111.86,77.52,Bijan Mustardson,False,Nelson,Hayden,Nelson
+2021,8,Letsride,L G4Ng,149.6,123.7,Letsride,False,James,Phoenix,James
+2021,8,The Guru,Captain Falcon,105.22,109.52,Captain Falcon,False,Robbie,Billy,Billy
+2021,9,Bijan Mustardson,Bad Newz Kennels,76.78,79.22,Bad Newz Kennels,False,Nelson,Angus,Angus
+2021,9,Jerryswrld,Royalfam,93.8,124.08,Royalfam,False,William,Hayden,Hayden
+2021,9,King Juju,Yungsauvages,99.5,153.34,Yungsauvages,False,Justin,Nic,Nic
+2021,9,Creampies,Captain Falcon,90.66,116.04,Captain Falcon,False,Fraser,Billy,Billy
+2021,9,The Guru,Letsride,88.26,82.04,The Guru,False,Robbie,James,Robbie
+2021,9,L G4Ng,Slippery Gypsies,88.94,132.5,Slippery Gypsies,False,Phoenix,Michael,Michael
+2021,10,Slippery Gypsies,Bad Newz Kennels,67.4,69.62,Bad Newz Kennels,False,Michael,Angus,Angus
+2021,10,King Juju,Captain Falcon,111.88,144.3,Captain Falcon,False,Justin,Billy,Billy
+2021,10,Royalfam,Letsride,126.82,72.5,Royalfam,False,Hayden,James,Hayden
+2021,10,The Guru,Yungsauvages,124.44,102.62,The Guru,False,Robbie,Nic,Robbie
+2021,10,L G4Ng,Creampies,110.44,120.42,Creampies,False,Phoenix,Fraser,Fraser
+2021,10,Jerryswrld,Bijan Mustardson,113.7,81.98,Jerryswrld,False,William,Nelson,William
+2021,11,Royalfam,Creampies,112.08,151.76,Creampies,False,Hayden,Fraser,Fraser
+2021,11,Yungsauvages,Bijan Mustardson,114.92,141.02,Bijan Mustardson,False,Nic,Nelson,Nelson
+2021,11,Letsride,Captain Falcon,105.28,122.18,Captain Falcon,False,James,Billy,Billy
+2021,11,L G4Ng,King Juju,76.7,121.7,King Juju,False,Phoenix,Justin,Justin
+2021,11,Jerryswrld,Slippery Gypsies,83.24,119.08,Slippery Gypsies,False,William,Michael,Michael
+2021,11,Bad Newz Kennels,The Guru,130.22,95.46,Bad Newz Kennels,False,Angus,Robbie,Angus
+2021,12,Bijan Mustardson,King Juju,103.26,115.48,King Juju,False,Nelson,Justin,Justin
+2021,12,Creampies,L G4Ng,92.68,70.6,Creampies,False,Fraser,Phoenix,Fraser
+2021,12,Captain Falcon,Royalfam,145.02,88.46,Captain Falcon,False,Billy,Hayden,Billy
+2021,12,Bad Newz Kennels,Yungsauvages,114.7,118.1,Yungsauvages,False,Angus,Nic,Nic
+2021,12,Letsride,Jerryswrld,109.24,130.0,Jerryswrld,False,James,William,William
+2021,12,The Guru,Slippery Gypsies,81.0,113.88,Slippery Gypsies,False,Robbie,Michael,Michael
+2021,13,The Guru,Royalfam,138.4,143.52,Royalfam,False,Robbie,Hayden,Hayden
+2021,13,Slippery Gypsies,Captain Falcon,73.92,88.58,Captain Falcon,False,Michael,Billy,Billy
+2021,13,King Juju,Bad Newz Kennels,99.2,115.26,Bad Newz Kennels,False,Justin,Angus,Angus
+2021,13,Letsride,L G4Ng,92.82,135.36,L G4Ng,False,James,Phoenix,Phoenix
+2021,13,Creampies,Yungsauvages,113.4,106.42,Creampies,False,Fraser,Nic,Fraser
+2021,13,Bijan Mustardson,Jerryswrld,143.7,88.22,Bijan Mustardson,False,Nelson,William,Nelson
+2021,14,Royalfam,L G4Ng,149.62,124.02,Royalfam,False,Hayden,Phoenix,Hayden
+2021,14,Yungsauvages,Jerryswrld,122.08,85.24,Yungsauvages,False,Nic,William,Nic
+2021,14,Bijan Mustardson,Slippery Gypsies,104.8,72.9,Bijan Mustardson,False,Nelson,Michael,Nelson
+2021,14,Bad Newz Kennels,Captain Falcon,115.92,140.5,Captain Falcon,False,Angus,Billy,Billy
+2021,14,The Guru,Creampies,140.52,87.98,The Guru,False,Robbie,Fraser,Robbie
+2021,14,King Juju,Letsride,126.54,146.22,Letsride,False,Justin,James,James
+2021,15,King Juju,Jerryswrld,81.32,92.28,Jerryswrld,True,Justin,William,William
+2021,15,Letsride,L G4Ng,58.76,105.5,L G4Ng,True,James,Phoenix,Phoenix
+2021,15,Bijan Mustardson,Yungsauvages,73.06,90.54,Yungsauvages,True,Nelson,Nic,Nic
+2021,15,Creampies,Royalfam,126.16,168.78,Royalfam,True,Fraser,Hayden,Hayden
+2021,16,Slippery Gypsies,Jerryswrld,71.54,120.6,Jerryswrld,True,Michael,William,William
+2021,16,L G4Ng,The Guru,77.92,129.16,The Guru,True,Phoenix,Robbie,Robbie
+2021,16,Captain Falcon,Yungsauvages,101.74,162.8,Yungsauvages,True,Billy,Nic,Nic
+2021,16,Royalfam,Bad Newz Kennels,136.8,109.54,Royalfam,True,Hayden,Angus,Hayden
+2022,1,Jerryswrld,Yungsauvages,133.58,93.62,Jerryswrld,False,William,Nic,William
+2022,1,Royalfam,Creampies,126.96,152.3,Creampies,False,Hayden,Fraser,Fraser
+2022,1,King Juju,Bijan Mustardson,93.32,102.06,Bijan Mustardson,False,Justin,Nelson,Nelson
+2022,1,L G4Ng,Bad Newz Kennels,95.68,107.12,Bad Newz Kennels,False,Phoenix,Angus,Angus
+2022,1,Letsride,Captain Falcon,96.5,106.1,Captain Falcon,False,James,Billy,Billy
+2022,1,Slippery Gypsies,The Guru,128.82,119.56,Slippery Gypsies,False,Michael,Robbie,Michael
+2022,2,Creampies,The Guru,158.0,98.7,Creampies,False,Fraser,Robbie,Fraser
+2022,2,Captain Falcon,Yungsauvages,61.48,135.02,Yungsauvages,False,Billy,Nic,Nic
+2022,2,Bad Newz Kennels,Slippery Gypsies,119.22,126.38,Slippery Gypsies,False,Angus,Michael,Michael
+2022,2,Bijan Mustardson,Royalfam,121.6,118.76,Bijan Mustardson,False,Nelson,Hayden,Nelson
+2022,2,Letsride,King Juju,103.46,114.76,King Juju,False,James,Justin,Justin
+2022,2,Jerryswrld,L G4Ng,133.78,106.84,Jerryswrld,False,William,Phoenix,William
+2022,3,Creampies,King Juju,88.58,121.5,King Juju,False,Fraser,Justin,Justin
+2022,3,Slippery Gypsies,Yungsauvages,109.26,129.22,Yungsauvages,False,Michael,Nic,Nic
+2022,3,The Guru,Bad Newz Kennels,90.64,106.2,Bad Newz Kennels,False,Robbie,Angus,Angus
+2022,3,Bijan Mustardson,Captain Falcon,116.06,91.66,Bijan Mustardson,False,Nelson,Billy,Nelson
+2022,3,Letsride,Jerryswrld,141.96,127.0,Letsride,False,James,William,James
+2022,3,L G4Ng,Royalfam,97.3,99.58,Royalfam,False,Phoenix,Hayden,Hayden
+2022,4,Yungsauvages,Letsride,118.76,108.78,Yungsauvages,False,Nic,James,Nic
+2022,4,Creampies,Bad Newz Kennels,119.76,169.96,Bad Newz Kennels,False,Fraser,Angus,Angus
+2022,4,L G4Ng,Bijan Mustardson,142.32,117.36,L G4Ng,False,Phoenix,Nelson,Phoenix
+2022,4,Royalfam,Jerryswrld,117.6,115.72,Royalfam,False,Hayden,William,Hayden
+2022,4,Slippery Gypsies,King Juju,133.78,116.88,Slippery Gypsies,False,Michael,Justin,Michael
+2022,4,The Guru,Captain Falcon,135.7,81.96,The Guru,False,Robbie,Billy,Robbie
+2022,5,Captain Falcon,Royalfam,64.32,125.52,Royalfam,False,Billy,Hayden,Hayden
+2022,5,King Juju,L G4Ng,120.68,104.26,King Juju,False,Justin,Phoenix,Justin
+2022,5,Bad Newz Kennels,Letsride,138.48,112.56,Bad Newz Kennels,False,Angus,James,Angus
+2022,5,Slippery Gypsies,Bijan Mustardson,100.4,152.24,Bijan Mustardson,False,Michael,Nelson,Nelson
+2022,5,Creampies,Jerryswrld,145.78,95.76,Creampies,False,Fraser,William,Fraser
+2022,5,Yungsauvages,The Guru,105.06,127.24,The Guru,False,Nic,Robbie,Robbie
+2022,6,Creampies,L G4Ng,116.22,85.18,Creampies,False,Fraser,Phoenix,Fraser
+2022,6,Yungsauvages,King Juju,108.6,82.6,Yungsauvages,False,Nic,Justin,Nic
+2022,6,Slippery Gypsies,Jerryswrld,102.58,99.3,Slippery Gypsies,False,Michael,William,Michael
+2022,6,Captain Falcon,Bad Newz Kennels,73.92,83.4,Bad Newz Kennels,False,Billy,Angus,Angus
+2022,6,Bijan Mustardson,The Guru,134.9,112.62,Bijan Mustardson,False,Nelson,Robbie,Nelson
+2022,6,Royalfam,Letsride,118.52,118.92,Letsride,False,Hayden,James,James
+2022,7,Jerryswrld,Bad Newz Kennels,119.4,115.96,Jerryswrld,False,William,Angus,William
+2022,7,L G4Ng,Letsride,101.0,93.3,L G4Ng,False,Phoenix,James,Phoenix
+2022,7,Slippery Gypsies,Captain Falcon,106.56,87.76,Slippery Gypsies,False,Michael,Billy,Michael
+2022,7,Royalfam,Yungsauvages,122.22,112.3,Royalfam,False,Hayden,Nic,Hayden
+2022,7,The Guru,King Juju,117.9,123.24,King Juju,False,Robbie,Justin,Justin
+2022,7,Creampies,Bijan Mustardson,98.72,95.54,Creampies,False,Fraser,Nelson,Fraser
+2022,8,Jerryswrld,The Guru,125.0,141.58,The Guru,False,William,Robbie,Robbie
+2022,8,Yungsauvages,L G4Ng,120.42,130.34,L G4Ng,False,Nic,Phoenix,Phoenix
+2022,8,Captain Falcon,Creampies,108.56,138.58,Creampies,False,Billy,Fraser,Fraser
+2022,8,Bijan Mustardson,Bad Newz Kennels,118.44,110.4,Bijan Mustardson,False,Nelson,Angus,Nelson
+2022,8,Letsride,Slippery Gypsies,140.74,78.04,Letsride,False,James,Michael,James
+2022,8,King Juju,Royalfam,136.08,130.64,King Juju,False,Justin,Hayden,Justin
+2022,9,Yungsauvages,Bijan Mustardson,94.32,124.52,Bijan Mustardson,False,Nic,Nelson,Nelson
+2022,9,Letsride,The Guru,86.2,128.78,The Guru,False,James,Robbie,Robbie
+2022,9,Slippery Gypsies,Creampies,123.5,138.44,Creampies,False,Michael,Fraser,Fraser
+2022,9,Royalfam,Bad Newz Kennels,130.7,102.02,Royalfam,False,Hayden,Angus,Hayden
+2022,9,Jerryswrld,King Juju,95.42,92.34,Jerryswrld,False,William,Justin,William
+2022,10,Royalfam,Slippery Gypsies,94.34,82.38,Royalfam,False,Hayden,Michael,Hayden
+2022,10,Jerryswrld,Captain Falcon,133.7,133.14,Jerryswrld,False,William,Billy,William
+2022,10,The Guru,L G4Ng,100.6,109.9,L G4Ng,False,Robbie,Phoenix,Phoenix
+2022,10,Letsride,Bijan Mustardson,109.64,128.38,Bijan Mustardson,False,James,Nelson,Nelson
+2022,10,King Juju,Bad Newz Kennels,75.1,123.3,Bad Newz Kennels,False,Justin,Angus,Angus
+2022,10,Yungsauvages,Creampies,72.44,101.24,Creampies,False,Nic,Fraser,Fraser
+2022,11,King Juju,Captain Falcon,110.56,104.94,King Juju,False,Justin,Billy,Justin
+2022,11,Creampies,Letsride,101.06,111.68,Letsride,False,Fraser,James,James
+2022,11,Bad Newz Kennels,Yungsauvages,98.0,125.06,Yungsauvages,False,Angus,Nic,Nic
+2022,11,L G4Ng,Slippery Gypsies,136.32,95.44,L G4Ng,False,Phoenix,Michael,Phoenix
+2022,11,Bijan Mustardson,Jerryswrld,75.52,95.88,Jerryswrld,False,Nelson,William,William
+2022,11,The Guru,Royalfam,142.88,146.6,Royalfam,False,Robbie,Hayden,Hayden
+2022,12,Bad Newz Kennels,Creampies,130.36,98.8,Bad Newz Kennels,False,Angus,Fraser,Angus
+2022,12,Letsride,Captain Falcon,102.24,112.36,Captain Falcon,False,James,Billy,Billy
+2022,12,Yungsauvages,The Guru,114.36,138.06,The Guru,False,Nic,Robbie,Robbie
+2022,12,Bijan Mustardson,L G4Ng,96.32,145.52,L G4Ng,False,Nelson,Phoenix,Phoenix
+2022,12,King Juju,Royalfam,125.0,124.76,King Juju,False,Justin,Hayden,Justin
+2022,12,Jerryswrld,Slippery Gypsies,96.52,89.82,Jerryswrld,False,William,Michael,William
+2022,13,King Juju,Jerryswrld,143.94,144.76,Jerryswrld,False,Justin,William,William
+2022,13,Bijan Mustardson,Yungsauvages,113.76,61.64,Bijan Mustardson,False,Nelson,Nic,Nelson
+2022,13,The Guru,Captain Falcon,104.8,103.8,The Guru,False,Robbie,Billy,Robbie
+2022,13,Letsride,Bad Newz Kennels,151.46,112.0,Letsride,False,James,Angus,James
+2022,13,L G4Ng,Royalfam,124.38,82.3,L G4Ng,False,Phoenix,Hayden,Phoenix
+2022,13,Creampies,Slippery Gypsies,107.52,95.7,Creampies,False,Fraser,Michael,Fraser
+2022,14,L G4Ng,Jerryswrld,88.16,104.88,Jerryswrld,False,Phoenix,William,William
+2022,14,Royalfam,Creampies,78.28,60.58,Royalfam,False,Hayden,Fraser,Hayden
+2022,14,Bijan Mustardson,King Juju,97.9,118.06,King Juju,False,Nelson,Justin,Justin
+2022,14,Yungsauvages,Letsride,121.42,130.2,Letsride,False,Nic,James,James
+2022,14,The Guru,Bad Newz Kennels,128.1,114.18,The Guru,False,Robbie,Angus,Robbie
+2022,14,Captain Falcon,Slippery Gypsies,86.76,89.56,Slippery Gypsies,False,Billy,Michael,Michael
+2022,15,Slippery Gypsies,Yungsauvages,130.9,118.98,Slippery Gypsies,True,Michael,Nic,Michael
+2022,15,Letsride,Captain Falcon,148.6,103.04,Letsride,True,James,Billy,James
+2022,15,King Juju,L G4Ng,132.3,85.06,King Juju,True,Justin,Phoenix,Justin
+2022,15,Bijan Mustardson,Royalfam,120.58,87.62,Bijan Mustardson,True,Nelson,Hayden,Nelson
+2022,16,The Guru,Slippery Gypsies,100.5,141.26,Slippery Gypsies,True,Robbie,Michael,Michael
+2022,16,Letsride,Bad Newz Kennels,135.06,119.4,Letsride,True,James,Angus,James
+2022,16,Creampies,King Juju,112.96,109.1,Creampies,True,Fraser,Justin,Fraser
+2022,16,Bijan Mustardson,Jerryswrld,98.86,100.98,Jerryswrld,True,Nelson,William,William
+2024,1,L G4Ng,Royalfam,91.38,127.04,Royalfam,False,Phoenix,Hayden,Hayden
+2024,1,King Juju,Bad Newz Kennels,105.88,105.72,King Juju,False,Justin,Angus,Justin
+2024,1,Jerryswrld,Bijan Mustardson,91.96,121.4,Bijan Mustardson,False,William,Nelson,Nelson
+2024,1,Slippery Gypsies,Letsride,110.28,114.02,Letsride,False,Michael,James,James
+2024,1,Yungsauvages,Captain Falcon,137.38,136.92,Yungsauvages,False,Nic,Billy,Nic
+2024,2,Creampies,King Juju,87.02,108.22,King Juju,False,Fraser,Justin,Justin
+2024,2,Yungsauvages,Bijan Mustardson,157.86,150.0,Yungsauvages,False,Nic,Nelson,Nic
+2024,2,Bad Newz Kennels,L G4Ng,76.22,127.14,L G4Ng,False,Angus,Phoenix,Phoenix
+2024,2,The Guru,Captain Falcon,159.46,108.3,The Guru,False,Robbie,Billy,Robbie
+2024,2,Slippery Gypsies,Jerryswrld,107.96,83.7,Slippery Gypsies,False,Michael,William,Michael
+2024,2,Royalfam,Letsride,69.24,110.38,Letsride,False,Hayden,James,James
+2024,3,Royalfam,Jerryswrld,110.98,101.9,Royalfam,False,Hayden,William,Hayden
+2024,3,Letsride,L G4Ng,126.58,87.58,Letsride,False,James,Phoenix,James
+2024,3,Captain Falcon,Bijan Mustardson,118.02,117.32,Captain Falcon,False,Billy,Nelson,Billy
+2024,3,King Juju,Yungsauvages,96.76,138.52,Yungsauvages,False,Justin,Nic,Nic
+2024,3,Creampies,Slippery Gypsies,80.86,107.16,Slippery Gypsies,False,Fraser,Michael,Michael
+2024,3,The Guru,Bad Newz Kennels,101.12,65.94,The Guru,False,Robbie,Angus,Robbie
+2024,4,L G4Ng,King Juju,96.98,119.62,King Juju,False,Phoenix,Justin,Justin
+2024,4,Yungsauvages,Royalfam,108.5,78.0,Yungsauvages,False,Nic,Hayden,Nic
+2024,4,Captain Falcon,Letsride,118.1,118.94,Letsride,False,Billy,James,James
+2024,4,Creampies,Bad Newz Kennels,89.68,97.12,Bad Newz Kennels,False,Fraser,Angus,Angus
+2024,4,Slippery Gypsies,Bijan Mustardson,106.42,186.38,Bijan Mustardson,False,Michael,Nelson,Nelson
+2024,4,The Guru,Jerryswrld,108.08,122.2,Jerryswrld,False,Robbie,William,William
+2024,5,Letsride,Yungsauvages,173.32,109.44,Letsride,False,James,Nic,James
+2024,5,The Guru,Slippery Gypsies,98.14,83.42,The Guru,False,Robbie,Michael,Robbie
+2024,5,Jerryswrld,Captain Falcon,130.44,129.06,Jerryswrld,False,William,Billy,William
+2024,5,L G4Ng,Creampies,92.4,136.38,Creampies,False,Phoenix,Fraser,Fraser
+2024,5,Bad Newz Kennels,Royalfam,101.16,118.44,Royalfam,False,Angus,Hayden,Hayden
+2024,5,King Juju,Bijan Mustardson,113.08,110.6,King Juju,False,Justin,Nelson,Justin
+2024,6,Slippery Gypsies,Bad Newz Kennels,89.26,127.46,Bad Newz Kennels,False,Michael,Angus,Angus
+2024,6,Captain Falcon,Royalfam,117.98,126.3,Royalfam,False,Billy,Hayden,Hayden
+2024,6,The Guru,Bijan Mustardson,117.0,119.2,Bijan Mustardson,False,Robbie,Nelson,Nelson
+2024,6,Yungsauvages,Creampies,131.0,118.02,Yungsauvages,False,Nic,Fraser,Nic
+2024,6,King Juju,Letsride,109.82,78.52,King Juju,False,Justin,James,Justin
+2024,7,Royalfam,Bijan Mustardson,129.86,98.1,Royalfam,False,Hayden,Nelson,Hayden
+2024,7,Captain Falcon,King Juju,94.08,114.8,King Juju,False,Billy,Justin,Justin
+2024,7,Slippery Gypsies,L G4Ng,91.74,118.2,L G4Ng,False,Michael,Phoenix,Phoenix
+2024,7,The Guru,Letsride,89.9,133.54,Letsride,False,Robbie,James,James
+2024,7,Bad Newz Kennels,Yungsauvages,119.66,129.42,Yungsauvages,False,Angus,Nic,Nic
+2024,7,Jerryswrld,Creampies,103.64,62.54,Jerryswrld,False,William,Fraser,William
+2024,8,Captain Falcon,Creampies,116.7,111.06,Captain Falcon,False,Billy,Fraser,Billy
+2024,8,Bad Newz Kennels,Letsride,143.74,124.46,Bad Newz Kennels,False,Angus,James,Angus
+2024,8,Bijan Mustardson,L G4Ng,130.34,111.58,Bijan Mustardson,False,Nelson,Phoenix,Nelson
+2024,8,The Guru,Royalfam,143.54,127.08,The Guru,False,Robbie,Hayden,Robbie
+2024,8,Slippery Gypsies,King Juju,125.64,95.6,Slippery Gypsies,False,Michael,Justin,Michael
+2024,8,Jerryswrld,Yungsauvages,129.1,125.22,Jerryswrld,False,William,Nic,William
+2024,9,Bijan Mustardson,Bad Newz Kennels,136.8,115.6,Bijan Mustardson,False,Nelson,Angus,Nelson
+2024,9,The Guru,Yungsauvages,104.58,132.7,Yungsauvages,False,Robbie,Nic,Nic
+2024,9,Jerryswrld,King Juju,105.8,103.5,Jerryswrld,False,William,Justin,William
+2024,9,Letsride,Creampies,121.8,123.64,Creampies,False,James,Fraser,Fraser
+2024,9,Slippery Gypsies,Royalfam,120.56,137.84,Royalfam,False,Michael,Hayden,Hayden
+2024,9,L G4Ng,Captain Falcon,77.16,131.82,Captain Falcon,False,Phoenix,Billy,Billy
+2024,10,Jerryswrld,Letsride,99.44,92.3,Jerryswrld,False,William,James,William
+2024,10,Captain Falcon,Bad Newz Kennels,132.44,123.38,Captain Falcon,False,Billy,Angus,Billy
+2024,10,Creampies,Bijan Mustardson,135.82,87.78,Creampies,False,Fraser,Nelson,Fraser
+2024,10,The Guru,L G4Ng,90.56,99.04,L G4Ng,False,Robbie,Phoenix,Phoenix
+2024,10,Yungsauvages,Slippery Gypsies,105.0,112.48,Slippery Gypsies,False,Nic,Michael,Michael
+2024,10,Royalfam,King Juju,103.14,97.82,Royalfam,False,Hayden,Justin,Hayden
+2024,11,Royalfam,Creampies,148.34,106.74,Royalfam,False,Hayden,Fraser,Hayden
+2024,11,Yungsauvages,L G4Ng,129.08,82.88,Yungsauvages,False,Nic,Phoenix,Nic
+2024,11,Captain Falcon,Slippery Gypsies,132.64,111.44,Captain Falcon,False,Billy,Michael,Billy
+2024,11,King Juju,The Guru,176.98,126.88,King Juju,False,Justin,Robbie,Justin
+2024,11,Bijan Mustardson,Letsride,112.48,105.38,Bijan Mustardson,False,Nelson,James,Nelson
+2024,11,Bad Newz Kennels,Jerryswrld,115.34,97.76,Bad Newz Kennels,False,Angus,William,Angus
+2024,12,The Guru,Creampies,60.52,74.58,Creampies,False,Robbie,Fraser,Fraser
+2024,12,Royalfam,Bijan Mustardson,179.26,108.68,Royalfam,False,Hayden,Nelson,Hayden
+2024,12,King Juju,L G4Ng,93.76,61.7,King Juju,False,Justin,Phoenix,Justin
+2024,12,Bad Newz Kennels,Yungsauvages,114.86,107.42,Bad Newz Kennels,False,Angus,Nic,Angus
+2024,12,Slippery Gypsies,Jerryswrld,136.4,108.76,Slippery Gypsies,False,Michael,William,Michael
+2024,12,Captain Falcon,Letsride,120.46,129.38,Letsride,False,Billy,James,James
+2024,13,Letsride,Yungsauvages,140.58,102.92,Letsride,False,James,Nic,James
+2024,13,Slippery Gypsies,The Guru,101.24,100.78,Slippery Gypsies,False,Michael,Robbie,Michael
+2024,13,Captain Falcon,Bijan Mustardson,138.48,140.66,Bijan Mustardson,False,Billy,Nelson,Nelson
+2024,13,L G4Ng,Bad Newz Kennels,133.6,123.12,L G4Ng,False,Phoenix,Angus,Phoenix
+2024,13,Royalfam,Creampies,162.44,122.56,Royalfam,False,Hayden,Fraser,Hayden
+2024,13,Jerryswrld,King Juju,70.3,104.4,King Juju,False,William,Justin,Justin
+2024,14,Royalfam,L G4Ng,88.84,119.16,L G4Ng,False,Hayden,Phoenix,Phoenix
+2024,14,King Juju,Slippery Gypsies,121.38,155.32,Slippery Gypsies,False,Justin,Michael,Michael
+2024,14,Captain Falcon,Creampies,148.82,125.86,Captain Falcon,False,Billy,Fraser,Billy
+2024,14,Jerryswrld,Letsride,113.3,146.1,Letsride,False,William,James,James
+2024,14,Bad Newz Kennels,Bijan Mustardson,110.02,117.72,Bijan Mustardson,False,Angus,Nelson,Nelson
+2024,14,Yungsauvages,The Guru,132.98,88.14,Yungsauvages,False,Nic,Robbie,Nic
+2024,15,The Guru,Bad Newz Kennels,174.86,125.6,The Guru,True,Robbie,Angus,Robbie
+2024,15,L G4Ng,Creampies,78.56,79.54,Creampies,True,Phoenix,Fraser,Fraser
+2024,15,Yungsauvages,Bijan Mustardson,124.58,169.26,Bijan Mustardson,True,Nic,Nelson,Nelson
+2024,15,King Juju,Slippery Gypsies,131.64,97.34,King Juju,True,Justin,Michael,Justin
+2024,16,Jerryswrld,The Guru,110.92,122.28,The Guru,True,William,Robbie,Robbie
+2024,16,Creampies,Captain Falcon,109.78,165.64,Captain Falcon,True,Fraser,Billy,Billy
+2024,16,Royalfam,Bijan Mustardson,106.58,124.34,Bijan Mustardson,True,Hayden,Nelson,Nelson
+2024,16,King Juju,Letsride,130.64,142.98,Letsride,True,Justin,James,James
+2023,1,The Guru,King Juju,89.04,119.88,King Juju,False,Robbie,Justin,Justin
+2023,1,Bad Newz Kennels,L G4Ng,103.56,90.06,Bad Newz Kennels,False,Angus,Phoenix,Angus
+2023,1,Royalfam,Captain Falcon,91.24,108.76,Captain Falcon,False,Hayden,Billy,Billy
+2023,1,Creampies,Letsride,71.88,115.6,Letsride,False,Fraser,James,James
+2023,1,Slippery Gypsies,Yungsauvages,115.64,70.0,Slippery Gypsies,False,Michael,Nic,Michael
+2023,1,Jerryswrld,Bijan Mustardson,113.04,119.42,Bijan Mustardson,False,William,Nelson,Nelson
+2023,2,Jerryswrld,Captain Falcon,117.66,102.2,Jerryswrld,False,William,Billy,William
+2023,2,The Guru,L G4Ng,145.5,148.78,L G4Ng,False,Robbie,Phoenix,Phoenix
+2023,2,Royalfam,Yungsauvages,101.84,114.24,Yungsauvages,False,Hayden,Nic,Nic
+2023,2,Bad Newz Kennels,Slippery Gypsies,110.2,108.04,Bad Newz Kennels,False,Angus,Michael,Angus
+2023,2,Letsride,King Juju,116.98,136.32,King Juju,False,James,Justin,Justin
+2023,2,Creampies,Bijan Mustardson,97.78,95.84,Creampies,False,Fraser,Nelson,Fraser
+2023,3,Yungsauvages,Creampies,118.56,65.66,Yungsauvages,False,Nic,Fraser,Nic
+2023,3,Captain Falcon,Slippery Gypsies,102.56,118.26,Slippery Gypsies,False,Billy,Michael,Michael
+2023,3,King Juju,Bijan Mustardson,127.38,99.24,King Juju,False,Justin,Nelson,Justin
+2023,3,L G4Ng,Royalfam,121.64,99.96,L G4Ng,False,Phoenix,Hayden,Phoenix
+2023,3,The Guru,Letsride,139.48,192.28,Letsride,False,Robbie,James,James
+2023,3,Jerryswrld,Bad Newz Kennels,122.22,108.5,Jerryswrld,False,William,Angus,William
+2023,4,Yungsauvages,L G4Ng,114.04,155.92,L G4Ng,False,Nic,Phoenix,Phoenix
+2023,4,Jerryswrld,Royalfam,162.7,144.5,Jerryswrld,False,William,Hayden,William
+2023,4,Captain Falcon,Bad Newz Kennels,66.02,101.88,Bad Newz Kennels,False,Billy,Angus,Angus
+2023,4,Letsride,Slippery Gypsies,104.46,99.48,Letsride,False,James,Michael,James
+2023,4,Creampies,King Juju,55.7,132.76,King Juju,False,Fraser,Justin,Justin
+2023,4,The Guru,Bijan Mustardson,87.82,99.4,Bijan Mustardson,False,Robbie,Nelson,Nelson
+2023,5,Captain Falcon,King Juju,111.12,124.36,King Juju,False,Billy,Justin,Justin
+2023,5,Jerryswrld,L G4Ng,130.06,96.34,Jerryswrld,False,William,Phoenix,William
+2023,5,Bijan Mustardson,Bad Newz Kennels,104.62,93.68,Bijan Mustardson,False,Nelson,Angus,Nelson
+2023,5,Royalfam,The Guru,132.88,70.84,Royalfam,False,Hayden,Robbie,Hayden
+2023,5,Slippery Gypsies,Creampies,143.92,104.28,Slippery Gypsies,False,Michael,Fraser,Michael
+2023,5,Letsride,Yungsauvages,158.02,79.98,Letsride,False,James,Nic,James
+2023,6,Yungsauvages,King Juju,142.6,98.44,Yungsauvages,False,Nic,Justin,Nic
+2023,6,Letsride,Bijan Mustardson,132.4,106.34,Letsride,False,James,Nelson,James
+2023,6,Captain Falcon,L G4Ng,124.92,117.62,Captain Falcon,False,Billy,Phoenix,Billy
+2023,6,Slippery Gypsies,Royalfam,107.08,88.82,Slippery Gypsies,False,Michael,Hayden,Michael
+2023,6,Jerryswrld,The Guru,107.36,98.04,Jerryswrld,False,William,Robbie,William
+2023,6,Creampies,Bad Newz Kennels,109.4,79.64,Creampies,False,Fraser,Angus,Fraser
+2023,7,L G4Ng,Letsride,99.48,113.06,Letsride,False,Phoenix,James,James
+2023,7,Bijan Mustardson,Slippery Gypsies,70.14,110.64,Slippery Gypsies,False,Nelson,Michael,Michael
+2023,7,Royalfam,Creampies,155.94,108.36,Royalfam,False,Hayden,Fraser,Hayden
+2023,7,King Juju,Jerryswrld,106.16,116.7,Jerryswrld,False,Justin,William,William
+2023,7,Yungsauvages,Captain Falcon,110.8,91.06,Yungsauvages,False,Nic,Billy,Nic
+2023,7,Bad Newz Kennels,The Guru,135.56,139.16,The Guru,False,Angus,Robbie,Robbie
+2023,8,King Juju,Bad Newz Kennels,115.36,138.72,Bad Newz Kennels,False,Justin,Angus,Angus
+2023,8,Jerryswrld,Creampies,140.56,91.52,Jerryswrld,False,William,Fraser,William
+2023,8,Letsride,Royalfam,121.56,136.1,Royalfam,False,James,Hayden,Hayden
+2023,8,L G4Ng,Slippery Gypsies,121.68,101.36,L G4Ng,False,Phoenix,Michael,Phoenix
+2023,8,Yungsauvages,The Guru,92.0,125.0,The Guru,False,Nic,Robbie,Robbie
+2023,8,Captain Falcon,Bijan Mustardson,110.38,124.28,Bijan Mustardson,False,Billy,Nelson,Nelson
+2023,9,Bad Newz Kennels,Royalfam,123.84,136.24,Royalfam,False,Angus,Hayden,Hayden
+2023,9,Bijan Mustardson,L G4Ng,92.38,125.68,L G4Ng,False,Nelson,Phoenix,Phoenix
+2023,9,King Juju,Slippery Gypsies,98.4,116.02,Slippery Gypsies,False,Justin,Michael,Michael
+2023,9,Captain Falcon,Letsride,160.6,62.48,Captain Falcon,False,Billy,James,Billy
+2023,9,The Guru,Creampies,122.2,88.12,The Guru,False,Robbie,Fraser,Robbie
+2023,9,Yungsauvages,Jerryswrld,89.32,79.52,Yungsauvages,False,Nic,William,Nic
+2023,10,The Guru,Slippery Gypsies,116.96,123.92,Slippery Gypsies,False,Robbie,Michael,Michael
+2023,10,Royalfam,Bijan Mustardson,129.2,99.06,Royalfam,False,Hayden,Nelson,Hayden
+2023,10,King Juju,L G4Ng,93.98,134.62,L G4Ng,False,Justin,Phoenix,Phoenix
+2023,10,Creampies,Captain Falcon,91.08,144.12,Captain Falcon,False,Fraser,Billy,Billy
+2023,10,Bad Newz Kennels,Yungsauvages,118.82,88.46,Bad Newz Kennels,False,Angus,Nic,Angus
+2023,10,Letsride,Jerryswrld,142.22,89.38,Letsride,False,James,William,James
+2023,11,Letsride,Bad Newz Kennels,149.6,107.7,Letsride,False,James,Angus,James
+2023,11,Creampies,L G4Ng,66.84,111.56,L G4Ng,False,Fraser,Phoenix,Phoenix
+2023,11,Royalfam,King Juju,125.86,110.24,Royalfam,False,Hayden,Justin,Hayden
+2023,11,Slippery Gypsies,Jerryswrld,102.6,109.4,Jerryswrld,False,Michael,William,William
+2023,11,The Guru,Captain Falcon,115.88,112.04,The Guru,False,Robbie,Billy,Robbie
+2023,11,Yungsauvages,Bijan Mustardson,111.16,113.86,Bijan Mustardson,False,Nic,Nelson,Nelson
+2023,12,Bad Newz Kennels,Creampies,100.68,117.56,Creampies,False,Angus,Fraser,Fraser
+2023,12,Bijan Mustardson,Yungsauvages,143.24,158.74,Yungsauvages,False,Nelson,Nic,Nic
+2023,12,The Guru,King Juju,100.22,121.5,King Juju,False,Robbie,Justin,Justin
+2023,12,Slippery Gypsies,Captain Falcon,100.12,128.66,Captain Falcon,False,Michael,Billy,Billy
+2023,12,Letsride,Jerryswrld,112.8,142.56,Jerryswrld,False,James,William,William
+2023,12,Royalfam,L G4Ng,102.28,121.18,L G4Ng,False,Hayden,Phoenix,Phoenix
+2023,13,Letsride,Bad Newz Kennels,141.42,71.48,Letsride,False,James,Angus,James
+2023,13,The Guru,Jerryswrld,107.1,140.46,Jerryswrld,False,Robbie,William,William
+2023,13,Yungsauvages,King Juju,120.3,117.48,Yungsauvages,False,Nic,Justin,Nic
+2023,13,L G4Ng,Creampies,118.94,95.78,L G4Ng,False,Phoenix,Fraser,Phoenix
+2023,13,Slippery Gypsies,Bijan Mustardson,156.3,129.96,Slippery Gypsies,False,Michael,Nelson,Michael
+2023,13,Royalfam,Captain Falcon,118.82,122.78,Captain Falcon,False,Hayden,Billy,Billy
+2023,14,King Juju,Slippery Gypsies,106.66,103.2,King Juju,False,Justin,Michael,Justin
+2023,14,Creampies,Captain Falcon,88.46,142.74,Captain Falcon,False,Fraser,Billy,Billy
+2023,14,The Guru,Royalfam,78.04,135.52,Royalfam,False,Robbie,Hayden,Hayden
+2023,14,Bad Newz Kennels,Yungsauvages,105.44,86.82,Bad Newz Kennels,False,Angus,Nic,Angus
+2023,14,Bijan Mustardson,Letsride,73.14,116.98,Letsride,False,Nelson,James,James
+2023,14,L G4Ng,Jerryswrld,126.34,118.02,L G4Ng,False,Phoenix,William,Phoenix
+2023,15,Bijan Mustardson,The Guru,104.46,93.6,Bijan Mustardson,True,Nelson,Robbie,Nelson
+2023,15,Bad Newz Kennels,Creampies,135.22,104.14,Bad Newz Kennels,True,Angus,Fraser,Angus
+2023,15,Slippery Gypsies,Yungsauvages,96.96,111.16,Yungsauvages,True,Michael,Nic,Nic
+2023,15,L G4Ng,Captain Falcon,125.04,134.42,Captain Falcon,True,Phoenix,Billy,Billy
+2023,16,Royalfam,Bijan Mustardson,108.9,85.42,Royalfam,True,Hayden,Nelson,Hayden
+2023,16,Bad Newz Kennels,King Juju,109.82,128.62,King Juju,True,Angus,Justin,Justin
+2023,16,Letsride,Yungsauvages,129.94,140.26,Yungsauvages,True,James,Nic,Nic
+2023,16,Captain Falcon,Jerryswrld,123.08,107.88,Captain Falcon,True,Billy,William,Billy
