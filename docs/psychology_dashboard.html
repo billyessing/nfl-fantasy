@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychology Insights - League of Hard Knox</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .insights-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .insight-card {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease;
+        }
+        
+        .insight-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .insight-header {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .insight-content {
+            padding: 20px;
+        }
+        
+        .viz-link {
+            display: block;
+            width: calc(100% - 40px);
+            margin: 0 20px 20px;
+            padding: 12px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: background 0.3s ease;
+        }
+        
+        .viz-link:hover {
+            background: #5a67d8;
+        }
+        
+        .stats-summary {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .stat-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        
+        .stat-item {
+            text-align: center;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .stat-value {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+        
+        .highlight-card {
+            background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+            grid-column: 1 / -1;
+        }
+        
+        .highlight-card .insight-header {
+            background: linear-gradient(45deg, #ff6b6b, #ff8e8e);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧠 Psychology Insights</h1>
+            <p>League of Hard Knox • Advanced Performance Psychology • 2017-2024</p>
+        </div>
+        
+        <div class="stats-summary">
+            <h3>🎯 Key Psychology Findings</h3>
+            <div class="stat-grid">
+                <div class="stat-item">
+                    <div class="stat-value">11.9%</div>
+                    <div class="stat-label">Most Clutch (Playoff Boost)</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">9</div>
+                    <div class="stat-label">Longest Win Streak</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">10.0</div>
+                    <div class="stat-label">Most Consistent</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">5.5/10</div>
+                    <div class="stat-label">Highest Scorer DNA</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="insights-grid">
+            <div class="insight-card highlight-card">
+                <div class="insight-header">
+                    <h3>🎯 Clutch Factor Analysis</h3>
+                </div>
+                <div class="insight-content">
+                    <p>Who performs better in high-pressure playoff games? This analysis compares each manager's playoff performance to their regular season average.</p>
+                    <p><strong>Key Finding:</strong> Billy shows the biggest playoff performance boost at 11.9%.</p>
+                </div>
+                <a href="clutch_factor.html" class="viz-link">View Clutch Analysis</a>
+            </div>
+            
+            <div class="insight-card">
+                <div class="insight-header">
+                    <h3>🔥 Momentum Tracker</h3>
+                </div>
+                <div class="insight-content">
+                    <p>Analyze winning and losing streaks to understand momentum patterns and psychological resilience.</p>
+                    <p><strong>Longest Win Streak:</strong> Billy (9 games)</p>
+                </div>
+                <a href="momentum_tracker.html" class="viz-link">View Momentum Analysis</a>
+            </div>
+            
+            <div class="insight-card">
+                <div class="insight-header">
+                    <h3>📊 Consistency Analysis</h3>
+                </div>
+                <div class="insight-content">
+                    <p>Compare consistency vs performance to identify steady performers vs boom/bust players.</p>
+                    <p><strong>Most Consistent:</strong> Hayden (Score: 10.0/10)</p>
+                </div>
+                <a href="consistency_analysis.html" class="viz-link">View Consistency Analysis</a>
+            </div>
+            
+            <div class="insight-card highlight-card">
+                <div class="insight-header">
+                    <h3>🧬 Manager DNA</h3>
+                </div>
+                <div class="insight-content">
+                    <p>Comprehensive personality profiles showing each manager's playing style across 6 key dimensions: High Scorer, Consistent, Lucky, Clutch, Volatile, and Defensive.</p>
+                    <p><strong>Most Unique Profile:</strong> Each manager has a distinct DNA fingerprint showing their fantasy football personality.</p>
+                </div>
+                <a href="manager_dna_radar.html" class="viz-link">View DNA Analysis</a>
+            </div>
+            
+            <div class="insight-card">
+                <div class="insight-header">
+                    <h3>📈 League Evolution</h3>
+                </div>
+                <div class="insight-content">
+                    <p>Track how the League of Hard Knox has evolved over 8 years - scoring trends, parity, competitiveness.</p>
+                    <p><strong>Key Trend:</strong> League competitiveness and parity have decreased over time.</p>
+                </div>
+                <a href="league_evolution.html" class="viz-link">View Evolution Analysis</a>
+            </div>
+        </div>
+        
+        <div style="text-align: center; color: white; margin-top: 40px;">
+            <p>🧠 Psychology Insights • 📊 Advanced Analytics • 🏆 League of Hard Knox</p>
+        </div>
+    </div>
+</body>
+</html>

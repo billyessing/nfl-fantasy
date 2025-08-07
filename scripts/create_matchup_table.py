@@ -243,7 +243,7 @@ def create_interactive_html_table(df):
         }}
         
         tr:nth-child(even) {{
-            background-color: #f8f9fa;
+            background-color: #f5f5f5;  /* Light grey instead of light blue-grey */
         }}
         
         tr:hover {{
@@ -267,7 +267,7 @@ def create_interactive_html_table(df):
         }}
         
         .blowout {{
-            background: #f8d7da;
+            background: #ffe6e6;  /* Lighter red background */
             color: #721c24;
         }}
         
@@ -423,6 +423,7 @@ def create_interactive_html_table(df):
                         <th>Winner</th>
                         <th class="sortable" onclick="sortTable('margin')">Margin</th>
                         <th class="sortable" onclick="sortTable('total_points')">Total</th>
+                        <th onclick="resetSorting()" style="cursor: pointer; color: #dc3545;" title="Reset sorting to default">🔄</th>
                     </tr>
                 </thead>
                 <tbody id="tableBody">
